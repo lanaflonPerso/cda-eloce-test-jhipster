@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "cdaelocetestjhipster",
+    "packageName": "org.cdaeloce.testjhipster",
+    "packageFolder": "org/cdaeloce/testjhipster",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "ru",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "MDkwZTdiZTg3ZTc5MjlhY2EzMWEwZDM5YmYwMDdiOWQ1ZDZlMDFiODkwZTY1MDVjMmUxNGNiMTBjYjMyZmMzZWNhYmMyNzFkNWM1NDA2YmI0MTRkYWYzNjRlMzAxYWNjY2U4NDQ1NDM0ZDI2M2FjMjEyMDkxMTJkYjZkMzJkYTg=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "lanaflonPerso",
+  "repository-name": "cda-eloce-test-jhipster"
+}
